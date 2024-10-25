@@ -1,0 +1,1123 @@
+Active Internet connections
+Proto Recv-Q Send-Q  Local Address          Foreign Address        (state)    
+tcp4       0      0  10.0.0.197.62891       20.42.65.89.https      ESTABLISHED
+tcp4       0      0  10.0.0.197.62886       40.71.11.167.https     ESTABLISHED
+tcp4       0      0  10.0.0.197.62846       52.123.251.171.https   ESTABLISHED
+tcp6       0      0  2607:fea8:555c:9.62772 yyz12s07-in-x03..https ESTABLISHED
+tcp4       0      0  10.0.0.197.62315       199.38.167.131.https   ESTABLISHED
+tcp4       0      0  10.0.0.197.62244       151.101.126.49.https   ESTABLISHED
+tcp4       0      0  10.0.0.197.62238       151.101.126.49.https   ESTABLISHED
+tcp4       0      0  10.0.0.197.62231       218.64.98.34.bc..https ESTABLISHED
+tcp4       0      0  10.0.0.197.62219       104.17.215.204.https   ESTABLISHED
+tcp4       0      0  10.0.0.197.62207       8.154.244.35.bc..https ESTABLISHED
+tcp6       0      0  2607:fea8:555c:9.62199 2600:1901:0:8eee.https ESTABLISHED
+tcp6       0      0  2607:fea8:555c:9.62197 2a04:4e42:1e::30.https ESTABLISHED
+tcp6       0      0  2607:fea8:555c:9.62191 2606:4700:20::ac.https ESTABLISHED
+tcp4       0      0  10.0.0.197.62190       194.23.211.130.b.https ESTABLISHED
+tcp4       0      0  10.0.0.197.62184       79.77.117.34.bc..https ESTABLISHED
+tcp6       0      0  2607:fea8:555c:9.62182 2606:4700:4400::.https ESTABLISHED
+tcp6       0      0  2607:fea8:555c:9.62179 2606:4700:10::68.https ESTABLISHED
+tcp6       0      0  2607:fea8:555c:9.62177 2606:4700:4400::.https ESTABLISHED
+tcp6       0      0  2607:fea8:555c:9.62172 2606:4700:4400::.https ESTABLISHED
+tcp6       0      0  2607:fea8:555c:9.62170 2606:4700:4400::.https ESTABLISHED
+tcp4       0      0  10.0.0.197.62131       0.0.72.34.bc.goo.https ESTABLISHED
+tcp6       0      0  2607:fea8:555c:9.57372 bg-in-f188.1e100.5228  ESTABLISHED
+tcp6       0      0  2607:fea8:555c:9.57082 2607:fea8:555c:9.54006 ESTABLISHED
+tcp4       0      0  10.0.0.197.57106       52.123.190.69.https    ESTABLISHED
+tcp4       0      0  10.0.0.197.57105       10.0.0.51.8009         ESTABLISHED
+tcp4       0      0  10.0.0.197.57084       52.112.85.23.https     ESTABLISHED
+tcp4       0      0  10.0.0.197.56979       52.226.139.121.https   ESTABLISHED
+tcp6       0      0  2607:fea8:555c:9.54543 2603:1036:2401::.https ESTABLISHED
+tcp6       0      0  2607:fea8:555c:9.54533 2603:1036:2401:1.https ESTABLISHED
+tcp6       0      0  2607:fea8:555c:9.53716 2603:1036:2401::.https ESTABLISHED
+tcp6       0      0  2607:fea8:555c:9.49338 2603:1036:2401:1.https ESTABLISHED
+tcp6       0      0  2607:fea8:555c:9.49337 2603:1036:2401:1.https ESTABLISHED
+tcp6       0      0  2607:fea8:555c:9.49335 2603:1036:2401:1.https ESTABLISHED
+tcp4       0      0  localhost.4767         localhost.49155        ESTABLISHED
+tcp4       0      0  localhost.49155        localhost.4767         ESTABLISHED
+tcp4       0      0  10.0.0.197.62860       1drv.ms.https          TIME_WAIT  
+tcp4       0      0  10.0.0.197.62861       1drv.ms.https          TIME_WAIT  
+tcp4       0      0  10.0.0.197.62864       1drv.ms.https          TIME_WAIT  
+tcp4       0      0  10.0.0.197.62870       1drv.ms.https          TIME_WAIT  
+tcp4       0      0  10.0.0.197.62890       1drv.ms.https          TIME_WAIT  
+tcp4       0      0  10.0.0.197.62899       1drv.ms.https          TIME_WAIT  
+tcp4       0      0  10.0.0.197.62903       1drv.ms.https          TIME_WAIT  
+tcp4       0      0  10.0.0.197.62904       1drv.ms.https          TIME_WAIT  
+tcp4       0      0  10.0.0.197.64031       52.168.117.171.443     ESTABLISHED
+tcp4       0      0  10.0.0.197.64030       52.109.8.22.443        ESTABLISHED
+tcp4       0      0  10.0.0.197.64029       52.109.8.22.443        ESTABLISHED
+tcp6       0      0  2607:fea8:555c:9.55107 2603:1036:2400::.443   ESTABLISHED
+tcp4       0      0  10.0.0.197.64028       52.168.117.171.443     ESTABLISHED
+tcp6       0      0  2607:fea8:555c:9.55106 2603:1036:2403::.443   ESTABLISHED
+tcp4       0      0  10.0.0.197.64027       52.168.117.171.443     ESTABLISHED
+tcp4       0      0  10.0.0.197.64026       52.168.117.171.443     ESTABLISHED
+tcp4       0      0  10.0.0.197.64025       52.168.117.171.443     ESTABLISHED
+tcp4       0      0  10.0.0.197.64024       52.168.117.171.443     ESTABLISHED
+tcp6       0      0  2607:fea8:555c:9.55105 2620:149:a41:280.443   TIME_WAIT  
+tcp4       0      0  10.0.0.197.64023       52.168.117.171.443     ESTABLISHED
+tcp4       0      0  10.0.0.197.64022       52.182.143.211.443     ESTABLISHED
+tcp4       0      0  10.0.0.197.64021       52.182.143.211.443     ESTABLISHED
+tcp4       0      0  10.0.0.197.64020       52.182.143.211.443     ESTABLISHED
+tcp4       0      0  10.0.0.197.64019       20.60.194.131.443      ESTABLISHED
+tcp4       0      0  10.0.0.197.64018       1drv.ms.443            ESTABLISHED
+tcp4       0      0  10.0.0.197.64017       20.189.173.8.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.64016       20.189.173.8.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.64015       20.189.173.8.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.64014       20.189.173.8.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.64013       20.189.173.8.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.64012       20.189.173.8.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.64011       20.189.173.8.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.64010       20.189.173.8.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.64009       20.189.173.8.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.64008       20.189.173.8.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.64007       20.189.173.8.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.64006       20.189.173.8.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.64005       20.189.173.8.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.64004       20.189.173.8.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.64003       20.189.173.8.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.64001       20.189.173.8.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.64000       20.189.173.8.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63999       20.189.173.8.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63998       20.189.173.8.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63997       20.189.173.8.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63996       20.189.173.8.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63995       20.189.173.8.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63994       20.189.173.8.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63993       20.189.173.8.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63992       20.189.173.8.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63991       20.60.195.163.443      TIME_WAIT  
+tcp4       0      0  10.0.0.197.63990       20.189.173.8.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63989       20.189.173.8.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63988       20.189.173.8.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63987       20.189.173.8.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63986       20.189.173.8.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63985       20.189.173.8.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63984       20.189.173.8.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63983       40.79.197.34.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63982       40.79.197.34.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63981       40.79.197.34.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63980       40.79.197.34.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63979       40.79.197.34.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63978       40.79.197.34.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63977       20.52.64.200.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63976       20.189.173.1.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63975       20.189.173.1.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63974       20.189.173.1.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63973       20.189.173.1.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63972       20.189.173.1.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63971       20.189.173.1.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63970       20.189.173.1.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63969       20.189.173.1.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63968       20.189.173.1.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63967       20.189.173.1.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63966       20.189.173.1.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63965       20.189.173.1.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63963       20.189.173.1.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63962       20.189.173.1.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63961       20.189.173.1.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63960       20.189.173.1.443       TIME_WAIT  
+tcp4       0      0  10.0.0.197.63959       20.189.173.1.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63958       20.189.173.1.443       ESTABLISHED
+tcp4       0      0  10.0.0.197.63957       20.189.173.1.443       TIME_WAIT  
+tcp4       0      0  10.0.0.197.63956       20.189.173.1.443       TIME_WAIT  
+tcp4       0      0  10.0.0.197.63949       20.189.173.1.443       TIME_WAIT  
+tcp4       0      0  10.0.0.197.63948       20.189.173.1.443       TIME_WAIT  
+tcp4       0      0  10.0.0.197.63947       20.189.173.1.443       TIME_WAIT  
+tcp4       0      0  10.0.0.197.63945       20.189.173.1.443       ESTABLISHED
+tcp4       0     63  10.0.0.197.63914       52.182.143.208.443     FIN_WAIT_1 
+tcp4       0      0  10.0.0.197.63889       1drv.ms.443            TIME_WAIT  
+tcp4       0     63  10.0.0.197.63633       104.208.16.90.443      FIN_WAIT_1 
+tcp6       0      0  2607:fea8:555c:9.55080 2603:1036:30a:18.443   ESTABLISHED
+tcp4       0     63  10.0.0.197.63598       52.168.112.67.443      FIN_WAIT_1 
+tcp6       0      0  2607:fea8:555c:9.55061 2603:1036:30a:18.443   ESTABLISHED
+tcp6       0      0  2607:fea8:555c:9.55001 2603:1036:30a:82.443   ESTABLISHED
+tcp6       0      0  2607:fea8:555c:9.54929 2603:1036:30a:18.443   ESTABLISHED
+tcp4       0      0  10.0.0.197.60447       20.189.173.1.443       ESTABLISHED
+tcp6       0      0  2607:fea8:555c:9.54734 2603:1036:30a:18.443   ESTABLISHED
+tcp6       0      0  2607:fea8:555c:9.54732 2603:1036:30a:81.443   ESTABLISHED
+tcp6       0      0  2607:fea8:555c:9.54728 2603:1036:30a:81.443   ESTABLISHED
+tcp6       0      0  2607:fea8:555c:9.54727 2603:1036:30a:81.443   ESTABLISHED
+tcp6       0      0  2607:fea8:555c:9.54724 2603:1036:30a:81.443   ESTABLISHED
+tcp4       0      0  10.0.0.197.59308       17.57.144.246.5223     ESTABLISHED
+udp4       0      0  *.mdns                 *.*                               
+udp46      0      0  *.mdns                 *.*                               
+udp46      0      0  *.mdns                 *.*                               
+udp46      0      0  *.mdns                 *.*                               
+udp46      0      0  *.mdns                 *.*                               
+udp46      0      0  *.mdns                 *.*                               
+udp46      0      0  *.mdns                 *.*                               
+udp46      0      0  *.mdns                 *.*                               
+udp4       0      0  *.mdns                 *.*                               
+udp46      0      0  *.mdns                 *.*                               
+udp4       0      0  *.52950                *.*                               
+udp6       0      0  *.xserveraid           *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp46      0      0  *.61877                *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp46      0      0  *.61543                *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp46      0      0  *.*                    *.*                               
+udp4       0      0  *.*                    *.*                               
+udp6       0      0  *.mdns                 *.*                               
+udp4       0      0  *.mdns                 *.*                               
+udp4       0      0  *.netbios-ns           *.*                               
+udp4       0      0  *.netbios-dgm          *.*                               
+Active Multipath Internet connections
+Proto/ID  Flags      Local Address          Foreign Address        (state)    
+icm6       0      0  *.*                    *.*                               
+Active LOCAL (UNIX) domain sockets
+Address          Type   Recv-Q Send-Q            Inode             Conn             Refs          Nextref Addr
+64290a8acf2bd34f stream      0      0                0 64290a8acf2bc53f                0                0 /var/run/mDNSResponder
+64290a8acf2bc53f stream      0      0                0 64290a8acf2bd34f                0                0
+64290a8acf2d7fb7 stream      0      0                0                0                0                0
+64290a8acf2bdfcf stream      0      0                0 64290a8acf2bbfc7                0                0 /var/run/mDNSResponder
+64290a8acf2bbfc7 stream      0      0                0 64290a8acf2bdfcf                0                0
+64290a8acf2bcc47 stream      0      0                0 64290a8acf2bc797                0                0 /var/run/mDNSResponder
+64290a8acf2bc797 stream      0      0                0 64290a8acf2bcc47                0                0
+64290a8acf2b6dbf stream      0      0                0 64290a8acf2b6cf7                0                0 /var/run/mDNSResponder
+64290a8acf2b6cf7 stream      0      0                0 64290a8acf2b6dbf                0                0
+64290a8acf2bc08f stream      0      0                0 64290a8acf2bbe37                0                0 /var/run/mDNSResponder
+64290a8acf2bbe37 stream      0      0                0 64290a8acf2bc08f                0                0
+64290a8acf2bb4d7 stream      0      0                0 64290a8acf2bb0ef                0                0 /var/run/mDNSResponder
+64290a8acf2bb0ef stream      0      0                0 64290a8acf2bb4d7                0                0
+64290a8acf2ba46f stream      0      0                0 64290a8acf2b8467                0                0 /var/run/mDNSResponder
+64290a8acf2b8467 stream      0      0                0 64290a8acf2ba46f                0                0
+64290a8acf2b6b67 stream      0      0                0 64290a8acf2be60f                0                0 /var/run/mDNSResponder
+64290a8acf2be60f stream      0      0                0 64290a8acf2b6b67                0                0
+64290a8acf2be097 stream      0      0                0 64290a8acf2bdbe7                0                0 /var/run/mDNSResponder
+64290a8acf2bdbe7 stream      0      0                0 64290a8acf2be097                0                0
+64290a8acf2c89ef stream      0      0                0 64290a8acf2c83af                0                0 /var/run/mDNSResponder
+64290a8acf2c83af stream      0      0                0 64290a8acf2c89ef                0                0
+64290a8acf2bdf07 stream      0      0                0 64290a8acf2bc21f                0                0 /var/run/mDNSResponder
+64290a8acf2bc21f stream      0      0                0 64290a8acf2bdf07                0                0
+64290a8acf2bb987 stream      0      0                0 64290a8acf2bb72f                0                0 /var/run/mDNSResponder
+64290a8acf2bb72f stream      0      0                0 64290a8acf2bb987                0                0
+64290a8acf2b9277 stream      0      0 64290a946dceeee7                0                0                0 /Users/mauricio.gbarros/Library/Application Support/Code/1.86-main.sock
+64290a8acf2c57ef stream      0      0                0 64290a8acf2e6227                0                0 /var/run/mDNSResponder
+64290a8acf2e6227 stream      0      0                0 64290a8acf2c57ef                0                0
+64290a8acf2ba78f stream      0      0                0 64290a8acf2ba6c7                0                0 /var/run/mDNSResponder
+64290a8acf2ba6c7 stream      0      0                0 64290a8acf2ba78f                0                0
+64290a8acf2bdd77 stream      0      0                0 64290a8acf2bdcaf                0                0 /var/run/mDNSResponder
+64290a8acf2bdcaf stream      0      0                0 64290a8acf2bdd77                0                0
+64290a8acf2c77f7 stream      0      0                0 64290a8acf2c740f                0                0 /var/run/mDNSResponder
+64290a8acf2c740f stream      0      0                0 64290a8acf2c77f7                0                0
+64290a8acf2bd0f7 stream      0      0                0 64290a8acf2bd02f                0                0 /var/run/mDNSResponder
+64290a8acf2bd02f stream      0      0                0 64290a8acf2bd0f7                0                0
+64290a8acf2c5277 stream      0      0                0                0                0                0
+64290a8acf2c8d0f stream      0      0                0 64290a8acf2c8c47                0                0 /var/run/mDNSResponder
+64290a8acf2c8c47 stream      0      0                0 64290a8acf2c8d0f                0                0
+64290a8acf2c4e8f stream      0      0 64290a946e30616f                0                0                0 /Users/mauricio.gbarros/Library/Containers/com.microsoft.teams2/Data/tmp/.com.microsoft.teams2.helper.dHJI2w/SingletonSocket
+64290a8acf2c7a4f stream      0      0                0 64290a8acf2c7987                0                0 /var/run/mDNSResponder
+64290a8acf2c7987 stream      0      0                0 64290a8acf2c7a4f                0                0
+64290a8acf2c78bf stream      0      0 64290a946eecc06f                0                0                0 /var/folders/lf/vnpv6m51341g2s1c5klf237r0000gn/T/.com.google.Chrome.trBqkB/SingletonSocket
+64290a8acf2d0917 stream      0      0                0 64290a8acf2d084f                0                0 /var/run/mDNSResponder
+64290a8acf2d084f stream      0      0                0 64290a8acf2d0917                0                0
+64290a8acf2cf0df stream      0      0 64290a946a6ab40f                0                0                0 /tmp/.s.PGSQL.5432
+64290a8acf2ce90f stream      0      0 64290a946a5a8597                0                0                0 /Library/Application Support/PaloAltoNetworks/GlobalProtect/PanNEIpc.unix
+64290a8acf2d5b1f stream      0      0                0 64290a8acf2d5a57                0                0 /var/run/mDNSResponder
+64290a8acf2d5a57 stream      0      0                0 64290a8acf2d5b1f                0                0
+64290a8acf2d598f stream      0      0                0 64290a8acf2d30ef                0                0 /var/run/mDNSResponder
+64290a8acf2d327f stream      0      0                0 64290a8acf2d31b7                0                0 /var/run/mDNSResponder
+64290a8acf2d31b7 stream      0      0                0 64290a8acf2d327f                0                0
+64290a8acf2d30ef stream      0      0                0 64290a8acf2d598f                0                0
+64290a8acf2d3027 stream      0      0                0 64290a8acf2d2f5f                0                0 /var/run/mDNSResponder
+64290a8acf2d2f5f stream      0      0                0 64290a8acf2d3027                0                0
+64290a8acf2d2e97 stream      0      0                0 64290a8acf2d2dcf                0                0 /var/run/mDNSResponder
+64290a8acf2d2dcf stream      0      0                0 64290a8acf2d2e97                0                0
+64290a8acf2d2d07 stream      0      0                0 64290a8acf2d2c3f                0                0 /var/run/mDNSResponder
+64290a8acf2d2c3f stream      0      0                0 64290a8acf2d2d07                0                0
+64290a8acf2d58c7 stream      0      0                0 64290a8acf2d57ff                0                0 /var/run/mDNSResponder
+64290a8acf2d57ff stream      0      0                0 64290a8acf2d58c7                0                0
+64290a8acf2d5737 stream      0      0                0 64290a8acf2d566f                0                0 /var/run/mDNSResponder
+64290a8acf2d566f stream      0      0                0 64290a8acf2d5737                0                0
+64290a8acf2d55a7 stream      0      0                0 64290a8acf2d54df                0                0 /var/run/mDNSResponder
+64290a8acf2d54df stream      0      0                0 64290a8acf2d55a7                0                0
+64290a8acf2d2b77 stream      0      0                0 64290a8acf2d2aaf                0                0 /var/run/mDNSResponder
+64290a8acf2d2aaf stream      0      0                0 64290a8acf2d2b77                0                0
+64290a8acf2db59f stream      0      0                0 64290a8acf2dd5a7                0                0 /var/run/mDNSResponder
+64290a8acf2dd5a7 stream      0      0                0 64290a8acf2db59f                0                0
+64290a8acf2d8e8f stream      0      0                0 64290a8acf2d8dc7                0                0 /var/run/mDNSResponder
+64290a8acf2d8dc7 stream      0      0                0 64290a8acf2d8e8f                0                0
+64290a8acf2d89df stream      0      0                0 64290a8acf2d8917                0                0 /var/run/mDNSResponder
+64290a8acf2d8917 stream      0      0                0 64290a8acf2d89df                0                0
+64290a8acf2db4d7 stream      0      0                0 64290a8acf2db40f                0                0 /var/run/mDNSResponder
+64290a8acf2db40f stream      0      0                0 64290a8acf2db4d7                0                0
+64290a8acf2dd1bf stream      0      0                0 64290a8acf2dd0f7                0                0 /var/run/usbmuxd
+64290a8acf2dd0f7 stream      0      0                0 64290a8acf2dd1bf                0                0
+64290a8acf2da78f stream      0      0                0 64290a8acf2da6c7                0                0 /var/run/usbmuxd
+64290a8acf2da6c7 stream      0      0                0 64290a8acf2da78f                0                0
+64290a8acf2db27f stream      0      0                0 64290a8acf2db1b7                0                0 /var/run/usbmuxd
+64290a8acf2db1b7 stream      0      0                0 64290a8acf2db27f                0                0
+64290a8acf2dd02f stream      0      0                0 64290a8acf2dcf67                0                0 /var/run/mDNSResponder
+64290a8acf2dcf67 stream      0      0                0 64290a8acf2dd02f                0                0
+64290a8acf2de2ef stream      0      0                0 64290a8acf2dd98f                0                0 /var/run/mDNSResponder
+64290a8acf2dd98f stream      0      0                0 64290a8acf2de2ef                0                0
+64290a8acf2e2dcf stream      0      0 64290a946991a9bf                0                0                0 /var/run/filesystemui.socket
+64290a8acf2e566f stream      0      0 64290a9469913d57                0                0                0 /private/tmp/com.apple.launchd.pfjvNWQssF/Listeners
+64290a8acf2e4927 stream      0      0                0 64290a8acf2e485f                0                0
+64290a8acf2e485f stream      0      0                0 64290a8acf2e4927                0                0
+64290a8acf2e214f stream      0      0 64290a94693c6277                0                0                0 /var/run/pppconfd
+64290a8acf2dfc97 stream      0      0 64290a9469106ac7                0                0                0 /var/run/usbmuxd
+64290a8acf2dfbcf stream      0      0 64290a946910cccf                0                0                0 /var/rpc/ncalrpc/srvsvc
+64290a8acf2dfb07 stream      0      0 64290a946910e277                0                0                0 /var/rpc/ncacn_np/srvsvc
+64290a8acf2df977 stream      0      0 64290a946910e58f                0                0                0 /var/rpc/ncalrpc/wkssvc
+64290a8acf2df8af stream      0      0 64290a946910e697                0                0                0 /var/rpc/ncacn_np/wkssvc
+64290a8acf2df7e7 stream      0      0 64290a946910a7af                0                0                0 /var/rpc/ncacn_np/mdssvc
+64290a8acf2df71f stream      0      0 64290a9469042ac7                0                0                0 /var/rpc/ncalrpc/lsarpc
+64290a8acf2df657 stream      0      0 64290a9469042bcf                0                0                0 /var/rpc/ncacn_np/lsarpc
+64290a8acf2df58f stream      0      0 64290a946910c06f                0                0                0 /var/run/mDNSResponder
+64290a8acf2df4c7 stream      0      0 64290a946910c177                0                0                0 /var/run/systemkeychaincheck.socket
+64290a8acf2df3ff stream      0      0 64290a946910c27f                0                0                0 /private/var/run/.sim_diagnosticd_socket
+64290a8acf2df337 stream      0      0 64290a946910c387                0                0                0 /var/run/portmap.socket
+64290a8acf2df26f stream      0      0 64290a946910c48f                0                0                0 /var/run/vpncontrol.sock
+64290a8acf2df1a7 stream      0      0 64290a946910c597                0                0                0 /var/rpc/ncalrpc/NETLOGON
+64290a8acf2df0df stream      0      0 64290a946910cdd7                0                0                0 /private/var/run/cupsd
+unexpected kind 752 which 0x2f0
+64290a8acf2b807f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c4c37
+64290a8acf2b7c97 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c8157
+64290a8acf2c8157 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2b807f
+64290a8acf2c4c37 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2b758f
+64290a8acf2b758f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2b74c7
+64290a8acf2b74c7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2b73ff
+64290a8acf2b73ff dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2b6c2f
+64290a8acf2b6c2f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bc477
+64290a8acf2bc477 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bac3f
+64290a8acf2bac3f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2b9fbf
+64290a8acf2b9fbf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2be227
+64290a8acf2be227 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bbbdf
+64290a8acf2bbbdf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2b70df
+64290a8acf2b70df dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2b7017
+64290a8acf2b7017 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bd417
+64290a8acf2bd417 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2b6847
+64290a8acf2b6847 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c4b6f
+64290a8acf2c4b6f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2be6d7
+64290a8acf2be6d7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2b98b7
+64290a8acf2b98b7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2be3b7
+64290a8acf2be3b7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bc6cf
+64290a8acf2bc6cf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2b852f
+64290a8acf2b852f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2b6e87
+64290a8acf2b6e87 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bb347
+64290a8acf2bb347 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2be15f
+64290a8acf2be15f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d23a7
+64290a8acf2d23a7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2b901f
+64290a8acf2b901f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2b91af
+64290a8acf2b91af dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2b8f57
+64290a8acf2b8f57 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2baaaf
+64290a8acf2baaaf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bde3f
+64290a8acf2bde3f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bdb1f
+64290a8acf2bdb1f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bd7ff
+64290a8acf2bd7ff dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bd737
+64290a8acf2bd737 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bd66f
+64290a8acf2bd66f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bd5a7
+64290a8acf2bd5a7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bcdd7
+64290a8acf2bcdd7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bda57
+64290a8acf2bda57 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2b9c9f
+64290a8acf2b9c9f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bce9f
+64290a8acf2bce9f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2ba2df
+64290a8acf2ba2df dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2ba217
+64290a8acf2ba217 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e6097
+64290a8acf2e6097 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2ba3a7
+64290a8acf2ba3a7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d22df
+64290a8acf2d22df dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dc607
+64290a8acf2b7657 dgram       0      0                0 64290a8acf2cf58f 64290a8acf2cf58f                0
+64290a8acf2cf58f dgram       0      0                0 64290a8acf2b7657 64290a8acf2b7657                0
+64290a8acf2dc607 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bbb17
+64290a8acf2bbb17 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2b8cff
+64290a8acf2b8cff dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bba4f
+64290a8acf2bba4f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bbd6f
+64290a8acf2bbd6f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2b78af
+64290a8acf2b78af dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c808f
+64290a8acf2c808f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c7667
+64290a8acf2c7667 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2b9e2f
+64290a8acf2b9e2f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2b7b07
+64290a8acf2b7b07 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2ba9e7
+64290a8acf2ba9e7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2ba857
+64290a8acf2ba857 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2ba537
+64290a8acf2ba537 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2b997f
+64290a8acf2b997f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dc53f
+64290a8acf2dc53f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d7eef
+64290a8acf2ba14f dgram       0      0                0 64290a8acf2ba087 64290a8acf2ba087                0
+64290a8acf2ba087 dgram       0      0                0 64290a8acf2ba14f 64290a8acf2ba14f                0
+64290a8acf2d7eef dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dd8c7
+64290a8acf2dd8c7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c9a57
+64290a8acf2c9a57 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d7e27
+64290a8acf2d7e27 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dba4f
+64290a8acf2dba4f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2b7e27
+64290a8acf2b7e27 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c3d5f
+64290a8acf2c3d5f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2cf3ff
+64290a8acf2cf3ff dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bd287
+64290a8acf2bd287 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bd1bf
+64290a8acf2bd1bf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bd98f
+64290a8acf2bd98f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bd4df
+64290a8acf2bd4df dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2be2ef
+64290a8acf2be2ef dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bd8c7
+64290a8acf2bd8c7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c97ff
+64290a8acf2c97ff dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c9417
+64290a8acf2c9417 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c8dd7
+64290a8acf2c8dd7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c8797
+64290a8acf2c8797 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bb40f
+64290a8acf2bb40f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c9287
+64290a8acf2c9287 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e4797
+64290a8acf2e4797 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bc157
+64290a8acf2bc157 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c74d7
+64290a8acf2bcf67 dgram       0      0                0 64290a8acf2c8e9f 64290a8acf2c8e9f                0
+64290a8acf2c8e9f dgram       0      0                0 64290a8acf2bcf67 64290a8acf2bcf67                0
+64290a8acf2c74d7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c70ef
+64290a8acf2c70ef dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bb59f
+64290a8acf2bb59f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bc3af
+64290a8acf2bc3af dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2b965f
+64290a8acf2b965f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2b8aa7
+64290a8acf2b8aa7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2b89df
+64290a8acf2b89df dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bb1b7
+64290a8acf2bb1b7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c7fc7
+64290a8acf2c7fc7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c7eff
+64290a8acf2c7eff dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c6f5f
+64290a8acf2c6f5f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c54cf
+64290a8acf2c54cf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c484f
+64290a8acf2c484f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2ceb67
+64290a8acf2ceb67 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dd737
+64290a8acf2dd737 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2ba91f
+64290a8acf2ba91f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d2857
+64290a8acf2d2857 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bcd0f
+64290a8acf2bcd0f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c6537
+64290a8acf2c6537 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c8f67
+64290a8acf2c8f67 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bcb7f
+64290a8acf2bcb7f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bcab7
+64290a8acf2bcab7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bc9ef
+64290a8acf2bc9ef dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bc607
+64290a8acf2bc607 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bc927
+64290a8acf2bc927 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2bc85f
+64290a8acf2bc85f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c8927
+64290a8acf2c8927 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c885f
+64290a8acf2c885f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c86cf
+64290a8acf2c86cf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c9e3f
+64290a8acf2c9e3f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c8607
+64290a8acf2c8607 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c853f
+64290a8acf2c853f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c8477
+64290a8acf2c8477 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c821f
+64290a8acf2c821f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c82e7
+64290a8acf2c82e7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c9be7
+64290a8acf2c9be7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c727f
+64290a8acf2c727f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c5407
+64290a8acf2c5407 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c533f
+64290a8acf2c533f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c50e7
+64290a8acf2c50e7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c4dc7
+64290a8acf2c4dc7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c71b7
+64290a8acf2c71b7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c4917
+64290a8acf2c4917 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c2b67
+64290a8acf2c2b67 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c3a3f
+64290a8acf2c3a3f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c5b0f
+64290a8acf2c5b0f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2ca15f
+64290a8acf2ca15f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d1a47
+64290a8acf2d1a47 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e5417
+64290a8acf2e5417 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c597f
+64290a8acf2c597f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c5597
+64290a8acf2c5597 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c98c7
+64290a8acf2c98c7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dd7ff
+64290a8acf2dd7ff dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c51af
+64290a8acf2c51af dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c7027
+64290a8acf2c7027 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2cfe27
+64290a8acf2cfe27 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c998f
+64290a8acf2c998f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c6e97
+64290a8acf2c6e97 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c6dcf
+64290a8acf2c6dcf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c6d07
+64290a8acf2c6d07 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c6c3f
+64290a8acf2c6c3f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c69e7
+64290a8acf2c69e7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2ca47f
+64290a8acf2ca47f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e534f
+64290a8acf2e534f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c691f
+64290a8acf2c691f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c9b1f
+64290a8acf2c9b1f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c934f
+64290a8acf2c934f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c678f
+64290a8acf2c678f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c65ff
+64290a8acf2c65ff dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2decf7
+64290a8acf2decf7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d9e2f
+64290a8acf2d9e2f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c58b7
+64290a8acf2c58b7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c420f
+64290a8acf2c420f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c3337
+64290a8acf2c3337 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c2e87
+64290a8acf2c2e87 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c2847
+64290a8acf2c2847 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c7e37
+64290a8acf2c7e37 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c49df
+64290a8acf2c49df dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c4787
+64290a8acf2c4787 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c7d6f
+64290a8acf2c7d6f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c45f7
+64290a8acf2c45f7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c42d7
+64290a8acf2c42d7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2ca097
+64290a8acf2ca097 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c7bdf
+64290a8acf2c7bdf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c3bcf
+64290a8acf2c3bcf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d4797
+64290a8acf2d4797 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c9d77
+64290a8acf2c9d77 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c91bf
+64290a8acf2c91bf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c2c2f
+64290a8acf2c2c2f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c290f
+64290a8acf2c290f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c95a7
+64290a8acf2c95a7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c29d7
+64290a8acf2c29d7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d62ef
+64290a8acf2d62ef dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c5a47
+64290a8acf2c5a47 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c94df
+64290a8acf2c94df dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c9f07
+64290a8acf2c9f07 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c9caf
+64290a8acf2c9caf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c8b7f
+64290a8acf2c8b7f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c8ab7
+64290a8acf2c8ab7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c501f
+64290a8acf2c501f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d4927
+64290a8acf2d4927 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c5727
+64290a8acf2c5727 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c4f57
+64290a8acf2c4f57 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c4cff
+64290a8acf2c4cff dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c46bf
+64290a8acf2c46bf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c565f
+64290a8acf2c565f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c966f
+64290a8acf2c966f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c4aa7
+64290a8acf2c4aa7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e1597
+64290a8acf2e1597 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c902f
+64290a8acf2c902f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c90f7
+64290a8acf2c90f7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c9737
+64290a8acf2c9737 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d4f67
+64290a8acf2d4f67 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d2087
+64290a8acf2d2087 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d69d7
+64290a8acf2d69d7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dd66f
+64290a8acf2dd66f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c452f
+64290a8acf2c452f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c4467
+64290a8acf2c4467 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c439f
+64290a8acf2c439f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c3c97
+64290a8acf2c3c97 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c407f
+64290a8acf2c407f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c3eef
+64290a8acf2c3eef dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c3e27
+64290a8acf2c3e27 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c3fb7
+64290a8acf2c3fb7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c371f
+64290a8acf2c371f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c3b07
+64290a8acf2c3b07 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c3657
+64290a8acf2c3657 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2ca6d7
+64290a8acf2ca6d7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2ca60f
+64290a8acf2ca60f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c37e7
+64290a8acf2c37e7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2ca547
+64290a8acf2ca547 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c3977
+64290a8acf2c3977 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c38af
+64290a8acf2c38af dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c9fcf
+64290a8acf2c9fcf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c358f
+64290a8acf2c358f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e5f07
+64290a8acf2e5f07 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c34c7
+64290a8acf2c34c7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c33ff
+64290a8acf2c33ff dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c31a7
+64290a8acf2c31a7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c30df
+64290a8acf2c30df dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c326f
+64290a8acf2c326f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2cedbf
+64290a8acf2cedbf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c3017
+64290a8acf2c3017 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c2f4f
+64290a8acf2c2f4f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d9b0f
+64290a8acf2d9b0f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d6c2f
+64290a8acf2d6c2f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c2dbf
+64290a8acf2c2dbf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c2cf7
+64290a8acf2c7ca7 dgram       0      0                0 64290a8acf2c7b17 64290a8acf2c7b17                0
+64290a8acf2c7b17 dgram       0      0                0 64290a8acf2c7ca7 64290a8acf2c7ca7                0
+64290a8acf2c2cf7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d690f
+64290a8acf2d690f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c6b77
+64290a8acf2c6b77 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c6857
+64290a8acf2c6857 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e421f
+64290a8acf2e421f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dc08f
+64290a8acf2dc08f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c772f
+64290a8acf2c772f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c759f
+64290a8acf2c759f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c7347
+64290a8acf2c7347 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c66c7
+64290a8acf2c66c7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c6aaf
+64290a8acf2c6aaf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c646f
+64290a8acf2c646f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d29e7
+64290a8acf2d29e7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c5ef7
+64290a8acf2c62df dgram       0      0                0 64290a8acf2c5fbf 64290a8acf2c5fbf                0
+64290a8acf2c5fbf dgram       0      0                0 64290a8acf2c62df 64290a8acf2c62df                0
+64290a8acf2c5ef7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c6217
+64290a8acf2c6217 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c5e2f
+64290a8acf2c5e2f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c614f
+64290a8acf2c614f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c6087
+64290a8acf2c6087 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c63a7
+64290a8acf2c63a7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c5d67
+64290a8acf2c5d67 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c5c9f
+64290a8acf2c5c9f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d1b0f
+64290a8acf2d1b0f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c5bd7
+64290a8acf2c5bd7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d2217
+64290a8acf2d2217 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d214f
+64290a8acf2d214f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d1fbf
+64290a8acf2d1fbf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c2a9f
+64290a8acf2c2a9f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2ca3b7
+64290a8acf2ca3b7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2c4147
+64290a8acf2c4147 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d7c97
+64290a8acf2d7c97 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2ca227
+64290a8acf2ca227 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2ca2ef
+64290a8acf2ca2ef dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d615f
+64290a8acf2d615f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d5fcf
+64290a8acf2d5fcf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e007f
+64290a8acf2e007f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d14cf
+64290a8acf2d14cf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d0e8f
+64290a8acf2d0e8f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d0dc7
+64290a8acf2d0dc7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d0c37
+64290a8acf2d0c37 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d0b6f
+64290a8acf2d0b6f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d0aa7
+64290a8acf2d0aa7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d09df
+64290a8acf2d09df dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d052f
+64290a8acf2d052f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d0787
+64290a8acf2d0787 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d06bf
+64290a8acf2d06bf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d05f7
+64290a8acf2d05f7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d0467
+64290a8acf2d0467 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d039f
+64290a8acf2d039f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d02d7
+64290a8acf2d02d7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d020f
+64290a8acf2d020f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d0147
+64290a8acf2d0147 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d007f
+64290a8acf2d007f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2cfeef
+64290a8acf2cffb7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2cfd5f
+64290a8acf2cfeef dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2cffb7
+64290a8acf2cfd5f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2cfc97
+64290a8acf2cfc97 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2cfbcf
+64290a8acf2cfbcf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d5f07
+64290a8acf2d5f07 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2cfb07
+64290a8acf2cfb07 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2cfa3f
+64290a8acf2cfa3f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2cf977
+64290a8acf2cf977 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d6097
+64290a8acf2d6097 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2cf7e7
+64290a8acf2cf7e7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2cf8af
+64290a8acf2cf8af dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2cf71f
+64290a8acf2cf71f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2cf4c7
+64290a8acf2cf4c7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2cf337
+64290a8acf2cf337 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2cf26f
+64290a8acf2cf26f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2cf1a7
+64290a8acf2cf1a7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2cf017
+64290a8acf2cf017 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2cef4f
+64290a8acf2cef4f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2cee87
+64290a8acf2cee87 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2ce847
+64290a8acf2ce847 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2cec2f
+64290a8acf2cec2f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d66d7
+64290a8acf2d66d7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2ce9d7
+64290a8acf2ce9d7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2cea9f
+64290a8acf2cea9f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d647f
+64290a8acf2d647f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d660f
+64290a8acf2d660f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d6547
+64290a8acf2d6547 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d63b7
+64290a8acf2d63b7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d6227
+64290a8acf2d6227 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d5e3f
+64290a8acf2d5e3f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d5d77
+64290a8acf2d5d77 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d5caf
+64290a8acf2d5caf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d5417
+64290a8acf2d5417 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d51bf
+64290a8acf2d51bf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d3ca7
+64290a8acf2d3ca7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d50f7
+64290a8acf2d50f7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d502f
+64290a8acf2d502f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d4b7f
+64290a8acf2d4b7f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d4ab7
+64290a8acf2d4ab7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d49ef
+64290a8acf2d49ef dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d485f
+64290a8acf2d485f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d46cf
+64290a8acf2d46cf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d4607
+64290a8acf2d4607 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d453f
+64290a8acf2d453f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d4477
+64290a8acf2d4477 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d43af
+64290a8acf2d43af dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d42e7
+64290a8acf2d42e7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d3bdf
+64290a8acf2d3bdf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d421f
+64290a8acf2d421f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d4157
+64290a8acf2d4157 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d5be7
+64290a8acf2d5be7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d408f
+64290a8acf2d408f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d3b17
+64290a8acf2d3b17 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d3e37
+64290a8acf2d3e37 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d278f
+64290a8acf2d278f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d3d6f
+64290a8acf2d3d6f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d3a4f
+64290a8acf2d3a4f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d3987
+64290a8acf2d3987 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d38bf
+64290a8acf2d38bf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d0cff
+64290a8acf2d0cff dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d37f7
+64290a8acf2d37f7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d372f
+64290a8acf2d372f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d3667
+64290a8acf2d3667 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d359f
+64290a8acf2d359f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d34d7
+64290a8acf2d34d7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d340f
+64290a8acf2d340f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d291f
+64290a8acf2d291f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d197f
+64290a8acf2d197f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d534f
+64290a8acf2d534f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d26c7
+64290a8acf2d26c7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d2537
+64290a8acf2d2537 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d246f
+64290a8acf2d246f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d9a47
+64290a8acf2d9a47 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d997f
+64290a8acf2d997f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d25ff
+64290a8acf2d25ff dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d5287
+64290a8acf2d5287 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d1407
+64290a8acf2d101f dgram       0      0                0 64290a8acf2d0f57 64290a8acf2d0f57                0
+64290a8acf2d0f57 dgram       0      0                0 64290a8acf2d101f 64290a8acf2d101f                0
+64290a8acf2d1407 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d1bd7
+64290a8acf2d1bd7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d133f
+64290a8acf2d133f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d1d67
+64290a8acf2d10e7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d4e9f
+64290a8acf2d1d67 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d10e7
+64290a8acf2d4e9f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d4dd7
+64290a8acf2d4dd7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d18b7
+64290a8acf2d18b7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d4d0f
+64290a8acf2d4d0f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d17ef
+64290a8acf2d17ef dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d1277
+64290a8acf2d1277 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d1c9f
+64290a8acf2d1c9f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d1597
+64290a8acf2d1597 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d4c47
+64290a8acf2d4c47 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dcb7f
+64290a8acf2dcb7f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dcab7
+64290a8acf2dcab7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d11af
+64290a8acf2d11af dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d1727
+64290a8acf2d1727 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d165f
+64290a8acf2d165f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d9bd7
+64290a8acf2d9bd7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d98b7
+64290a8acf2d98b7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d97ef
+64290a8acf2d97ef dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d9727
+64290a8acf2d9727 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d965f
+64290a8acf2d965f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d9597
+64290a8acf2d9597 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d94cf
+64290a8acf2d94cf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d9407
+64290a8acf2d9407 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d91af
+64290a8acf2d933f dgram       0      0                0 64290a8acf2d9277 64290a8acf2d9277                0
+64290a8acf2d9277 dgram       0      0                0 64290a8acf2d933f 64290a8acf2d933f                0
+64290a8acf2d91af dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d90e7
+64290a8acf2d90e7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d901f
+64290a8acf2d901f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d8f57
+64290a8acf2d8f57 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d8cff
+64290a8acf2d8cff dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2db027
+64290a8acf2db027 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d8c37
+64290a8acf2d8c37 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d8b6f
+64290a8acf2d8b6f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d8aa7
+64290a8acf2d8aa7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2de3b7
+64290a8acf2de3b7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dcdd7
+64290a8acf2dcdd7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2daf5f
+64290a8acf2daf5f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dcd0f
+64290a8acf2dcd0f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dcc47
+64290a8acf2dcc47 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dc9ef
+64290a8acf2dc9ef dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d884f
+64290a8acf2d884f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dd287
+64290a8acf2dd287 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d8787
+64290a8acf2d8787 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d86bf
+64290a8acf2d86bf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dadcf
+64290a8acf2dadcf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dc927
+64290a8acf2dc927 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dad07
+64290a8acf2dad07 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d85f7
+64290a8acf2d85f7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d852f
+64290a8acf2d852f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d8467
+64290a8acf2d8467 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d839f
+64290a8acf2d839f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dc85f
+64290a8acf2dc85f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d82d7
+64290a8acf2d82d7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2db347
+64290a8acf2db347 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dac3f
+64290a8acf2dac3f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d820f
+64290a8acf2d820f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dab77
+64290a8acf2dab77 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2daaaf
+64290a8acf2daaaf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dc797
+64290a8acf2dc797 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dc6cf
+64290a8acf2dc6cf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d8147
+64290a8acf2d8147 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2da9e7
+64290a8acf2da9e7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dbca7
+64290a8acf2dbca7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2da91f
+64290a8acf2da91f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2da857
+64290a8acf2da857 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d807f
+64290a8acf2d807f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dbbdf
+64290a8acf2dbbdf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dbb17
+64290a8acf2dbb17 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d7bcf
+64290a8acf2dc477 dgram       0      0                0 64290a8acf2dc3af 64290a8acf2dc3af                0
+64290a8acf2dc3af dgram       0      0                0 64290a8acf2dc477 64290a8acf2dc477                0
+64290a8acf2da5ff dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d7d5f
+64290a8acf2d7bcf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2da5ff
+64290a8acf2d7d5f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2da537
+64290a8acf2da537 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2da46f
+64290a8acf2da46f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2da3a7
+64290a8acf2da3a7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d7b07
+64290a8acf2d7b07 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2da2df
+64290a8acf2da2df dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dc157
+64290a8acf2dc157 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2da217
+64290a8acf2da217 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2db0ef
+64290a8acf2db0ef dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d7a3f
+64290a8acf2d7a3f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d7977
+64290a8acf2d7977 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2da14f
+64290a8acf2da14f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2da087
+64290a8acf2da087 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2db987
+64290a8acf2db987 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d78af
+64290a8acf2d78af dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d77e7
+64290a8acf2d77e7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dbfc7
+64290a8acf2dbfc7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2db8bf
+64290a8acf2db8bf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d771f
+64290a8acf2d771f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2db7f7
+64290a8acf2db7f7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d7657
+64290a8acf2d7657 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dbe37
+64290a8acf2dbe37 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d758f
+64290a8acf2d758f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d74c7
+64290a8acf2d74c7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d73ff
+64290a8acf2d73ff dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d7337
+64290a8acf2d7337 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d726f
+64290a8acf2d726f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dbd6f
+64290a8acf2dbd6f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d71a7
+64290a8acf2d71a7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d70df
+64290a8acf2d70df dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d7017
+64290a8acf2d7017 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d6f4f
+64290a8acf2d6f4f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2de60f
+64290a8acf2de60f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d9fbf
+64290a8acf2d9fbf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d6e87
+64290a8acf2d6e87 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d6dbf
+64290a8acf2d6dbf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d9ef7
+64290a8acf2d9ef7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2db72f
+64290a8acf2db72f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2de547
+64290a8acf2de547 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d6cf7
+64290a8acf2d6cf7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2de47f
+64290a8acf2de47f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dbeff
+64290a8acf2dbeff dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dae97
+64290a8acf2dae97 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2db667
+64290a8acf2db667 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2de227
+64290a8acf2de227 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2ddfcf
+64290a8acf2ddfcf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2ddbe7
+64290a8acf2ddbe7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d6b67
+64290a8acf2d6b67 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e3ca7
+64290a8acf2e3ca7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e34d7
+64290a8acf2e34d7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e3027
+64290a8acf2e3027 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2de15f
+64290a8acf2de15f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2ddb1f
+64290a8acf2ddb1f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dda57
+64290a8acf2dda57 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2de097
+64290a8acf2de097 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dc2e7
+64290a8acf2dc2e7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d6a9f
+64290a8acf2d6a9f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2ddf07
+64290a8acf2ddf07 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dc21f
+64290a8acf2dc21f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dde3f
+64290a8acf2dde3f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d9c9f
+64290a8acf2d9c9f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2ddd77
+64290a8acf2ddd77 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2ddcaf
+64290a8acf2ddcaf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e1bd7
+64290a8acf2e1bd7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d6847
+64290a8acf2d6847 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2de6d7
+64290a8acf2de6d7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2d9d67
+64290a8acf2d9d67 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e3fc7
+64290a8acf2e3fc7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dce9f
+64290a8acf2dce9f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dd4df
+64290a8acf2dd4df dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dd417
+64290a8acf2dd417 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dd34f
+64290a8acf2dd34f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e5287
+64290a8acf2e5287 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e3987
+64290a8acf2e3987 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e38bf
+64290a8acf2e38bf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e31b7
+64290a8acf2e31b7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e30ef
+64290a8acf2e30ef dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e0dc7
+64290a8acf2e0dc7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e51bf
+64290a8acf2e51bf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e647f
+64290a8acf2e647f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e052f
+64290a8acf2e052f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dee87
+64290a8acf2dee87 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e4dd7
+64290a8acf2e4dd7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dedbf
+64290a8acf2dedbf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2de847
+64290a8acf2de847 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e66d7
+64290a8acf2e66d7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e1c9f
+64290a8acf2e1c9f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e660f
+64290a8acf2e660f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e6547
+64290a8acf2e6547 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e63b7
+64290a8acf2e63b7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e1a47
+64290a8acf2e1a47 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e62ef
+64290a8acf2e62ef dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e4c47
+64290a8acf2e4c47 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e615f
+64290a8acf2e615f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e49ef
+64290a8acf2e49ef dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e5fcf
+64290a8acf2e5fcf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e453f
+64290a8acf2e453f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e5e3f
+64290a8acf2e5e3f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e5d77
+64290a8acf2e5d77 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e55a7
+64290a8acf2e55a7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e4477
+64290a8acf2e4477 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e3eff
+64290a8acf2e3eff dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e3e37
+64290a8acf2e3e37 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e5caf
+64290a8acf2e5caf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e3b17
+64290a8acf2e3b17 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e5a57
+64290a8acf2e5be7 dgram       0      0                0 64290a8acf2e5b1f 64290a8acf2e5b1f                0
+64290a8acf2e5b1f dgram       0      0                0 64290a8acf2e5be7 64290a8acf2e5be7                0
+64290a8acf2e5a57 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e598f
+64290a8acf2e598f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e3a4f
+64290a8acf2e3a4f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e54df
+64290a8acf2e54df dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e58c7
+64290a8acf2e58c7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e57ff
+64290a8acf2e57ff dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e5737
+64290a8acf2e5737 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e50f7
+64290a8acf2e50f7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e4e9f
+64290a8acf2e4e9f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e502f
+64290a8acf2e502f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e4d0f
+64290a8acf2e4d0f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e4f67
+64290a8acf2e4f67 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e4b7f
+64290a8acf2e4b7f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e4ab7
+64290a8acf2e4ab7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e46cf
+64290a8acf2e46cf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e4607
+64290a8acf2e4607 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e43af
+64290a8acf2e43af dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e42e7
+64290a8acf2e42e7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e4157
+64290a8acf2e4157 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e408f
+64290a8acf2e408f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e3d6f
+64290a8acf2e3d6f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e3bdf
+64290a8acf2e3bdf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e37f7
+64290a8acf2e37f7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e372f
+64290a8acf2e372f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e3667
+64290a8acf2e3667 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dec2f
+64290a8acf2dec2f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e359f
+64290a8acf2e359f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e340f
+64290a8acf2e340f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e3347
+64290a8acf2e3347 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e327f
+64290a8acf2e327f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e2f5f
+64290a8acf2e2f5f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e2e97
+64290a8acf2e2e97 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e2d07
+64290a8acf2e2d07 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e2c3f
+64290a8acf2e2c3f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e2b77
+64290a8acf2e2b77 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e2aaf
+64290a8acf2e2aaf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e29e7
+64290a8acf2e29e7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e291f
+64290a8acf2e291f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e26c7
+64290a8acf2e2857 dgram       0      0                0 64290a8acf2e278f 64290a8acf2e278f                0
+64290a8acf2e278f dgram       0      0                0 64290a8acf2e2857 64290a8acf2e2857                0
+64290a8acf2e26c7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e25ff
+64290a8acf2e25ff dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2deb67
+64290a8acf2deb67 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e2537
+64290a8acf2e2537 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e246f
+64290a8acf2e246f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e23a7
+64290a8acf2e23a7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e22df
+64290a8acf2e22df dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e2217
+64290a8acf2dea9f dgram       0      0                0 64290a8acf2de9d7 64290a8acf2de9d7                0
+64290a8acf2de9d7 dgram       0      0                0 64290a8acf2dea9f 64290a8acf2dea9f                0
+64290a8acf2e2217 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e2087
+64290a8acf2e2087 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e0b6f
+64290a8acf2e0b6f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e1fbf
+64290a8acf2e1fbf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2de90f
+64290a8acf2de90f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e1ef7
+64290a8acf2e1ef7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e1e2f
+64290a8acf2e1e2f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e1d67
+64290a8acf2e1d67 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e1b0f
+64290a8acf2e1b0f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e197f
+64290a8acf2e197f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e18b7
+64290a8acf2e18b7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e17ef
+64290a8acf2e17ef dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e1727
+64290a8acf2e1727 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e165f
+64290a8acf2e165f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e1407
+64290a8acf2e14cf dgram       0      0                0 64290a8acf2dfa3f 64290a8acf2dfa3f                0
+64290a8acf2dfa3f dgram       0      0                0 64290a8acf2e14cf 64290a8acf2e14cf                0
+64290a8acf2e1407 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e133f
+64290a8acf2e133f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e1277
+64290a8acf2e1277 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e11af
+64290a8acf2e11af dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e10e7
+64290a8acf2e10e7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e101f
+64290a8acf2e101f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e0f57
+64290a8acf2e0f57 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e0e8f
+64290a8acf2e0e8f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e0cff
+64290a8acf2e0cff dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e0c37
+64290a8acf2e0c37 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e0aa7
+64290a8acf2e0aa7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e09df
+64290a8acf2e09df dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e0917
+64290a8acf2e0917 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e084f
+64290a8acf2e084f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e0787
+64290a8acf2e0787 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e06bf
+64290a8acf2e06bf dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e05f7
+64290a8acf2e05f7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e0467
+64290a8acf2e0467 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e039f
+64290a8acf2e039f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e02d7
+64290a8acf2e02d7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e020f
+64290a8acf2e020f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2e0147
+64290a8acf2e0147 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dffb7
+64290a8acf2dffb7 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dfeef
+64290a8acf2dfeef dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dfe27
+64290a8acf2dfe27 dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2dfd5f
+64290a8acf2dfd5f dgram       0      0                0 64290a8acf2def4f                0 64290a8acf2df017
+64290a8acf2df017 dgram       0      0                0 64290a8acf2def4f                0                0
+64290a8acf2def4f dgram       0      0 64290a94687dc387                0 64290a8acf2b7c97                0 /private//var/run/syslog
+unexpected kind 752 which 0x2f0
+Registered kernel control modules
+id       flags    pcbcount rcvbuf   sndbuf   name 
+       1        5        0     8192    32768 com.apple.network.tcp_ccdebug 
+       2       28        1     8192   131072 com.apple.flow-divert 
+       3        1       36    65536    65536 com.apple.net.netagent 
+       4        9        0   524288   524288 com.apple.content-filter 
+       5       29        5   524288   524288 com.apple.net.utun_control 
+       6       21        0    65536    65536 com.apple.net.ipsec_control 
+       7        0       79     8192     2048 com.apple.netsrc 
+       8       18        3     8192     2048 com.apple.network.statistics 
+       9        1        0     8192     2048 com.apple.network.advisory 
+       a        1        0    65536    65536 com.apple.net.rvi_control 
+       b        1        0    16384     2048 com.apple.nke.sockwall 
+       c        4        0    65536     2048 com.apple.spmi.nfc 
+Active kernel event sockets
+Proto Recv-Q Send-Q vendor  class  subcl
+kevt       0      0      1      1      2
+kevt       0      0      1      6      1
+kevt       0      0      1      1      6
+kevt       0      0      1      1      1
+kevt       0      0      1      1      2
+kevt       0      0      1      1      2
+kevt       0      0      1      1      7
+kevt       0      0      1      1      1
+kevt       0      0      1      1      2
+kevt       0      0      1      1      0
+kevt       0      0      1      3      3
+Active kernel control sockets
+Proto Recv-Q Send-Q   unit     id name
+kctl       0      0      1      2 com.apple.flow-divert
+kctl       0      0      1      3 com.apple.net.netagent
+kctl       0      0      2      3 com.apple.net.netagent
+kctl       0      0      3      3 com.apple.net.netagent
+kctl       0      0      4      3 com.apple.net.netagent
+kctl       0      0      5      3 com.apple.net.netagent
+kctl       0      0      6      3 com.apple.net.netagent
+kctl       0      0      7      3 com.apple.net.netagent
+kctl       0      0      8      3 com.apple.net.netagent
+kctl       0      0      9      3 com.apple.net.netagent
+kctl       0      0     10      3 com.apple.net.netagent
+kctl       0      0     11      3 com.apple.net.netagent
+kctl       0      0     12      3 com.apple.net.netagent
+kctl       0      0     13      3 com.apple.net.netagent
+kctl       0      0     14      3 com.apple.net.netagent
+kctl       0      0     15      3 com.apple.net.netagent
+kctl       0      0     16      3 com.apple.net.netagent
+kctl       0      0     17      3 com.apple.net.netagent
+kctl       0      0     18      3 com.apple.net.netagent
+kctl       0      0     19      3 com.apple.net.netagent
+kctl       0      0     20      3 com.apple.net.netagent
+kctl       0      0     21      3 com.apple.net.netagent
+kctl       0      0     22      3 com.apple.net.netagent
+kctl       0      0     23      3 com.apple.net.netagent
+kctl       0      0     24      3 com.apple.net.netagent
+kctl       0      0     25      3 com.apple.net.netagent
+kctl       0      0     26      3 com.apple.net.netagent
+kctl       0      0     27      3 com.apple.net.netagent
+kctl       0      0     28      3 com.apple.net.netagent
+kctl       0      0     29      3 com.apple.net.netagent
+kctl       0      0     30      3 com.apple.net.netagent
+kctl       0      0     31      3 com.apple.net.netagent
+kctl       0      0     32      3 com.apple.net.netagent
+kctl       0      0     33      3 com.apple.net.netagent
+kctl       0      0     34      3 com.apple.net.netagent
+kctl       0      0     35      3 com.apple.net.netagent
+kctl       0      0     36      3 com.apple.net.netagent
+kctl      80      0      1      5 com.apple.net.utun_control
+kctl       0      0      2      5 com.apple.net.utun_control
+kctl       0      0      3      5 com.apple.net.utun_control
+kctl       0      0      4      5 com.apple.net.utun_control
+kctl       0      0      5      5 com.apple.net.utun_control
+kctl       0      0      1      7 com.apple.netsrc
+kctl       0      0      2      7 com.apple.netsrc
+kctl       0      0      3      7 com.apple.netsrc
+kctl       0      0      4      7 com.apple.netsrc
+kctl       0      0      5      7 com.apple.netsrc
+kctl       0      0      6      7 com.apple.netsrc
+kctl       0      0      7      7 com.apple.netsrc
+kctl       0      0      8      7 com.apple.netsrc
+kctl       0      0      9      7 com.apple.netsrc
+kctl       0      0     10      7 com.apple.netsrc
+kctl       0      0     11      7 com.apple.netsrc
+kctl       0      0     12      7 com.apple.netsrc
+kctl       0      0     13      7 com.apple.netsrc
+kctl       0      0     14      7 com.apple.netsrc
+kctl       0      0     15      7 com.apple.netsrc
+kctl       0      0     16      7 com.apple.netsrc
+kctl       0      0     17      7 com.apple.netsrc
+kctl       0      0     18      7 com.apple.netsrc
+kctl       0      0     19      7 com.apple.netsrc
+kctl       0      0     20      7 com.apple.netsrc
+kctl       0      0     21      7 com.apple.netsrc
+kctl       0      0     22      7 com.apple.netsrc
+kctl       0      0     23      7 com.apple.netsrc
+kctl       0      0     24      7 com.apple.netsrc
+kctl       0      0     25      7 com.apple.netsrc
+kctl       0      0     26      7 com.apple.netsrc
+kctl       0      0     27      7 com.apple.netsrc
+kctl       0      0     28      7 com.apple.netsrc
+kctl       0      0     29      7 com.apple.netsrc
+kctl       0      0     30      7 com.apple.netsrc
+kctl       0      0     31      7 com.apple.netsrc
+kctl       0      0     32      7 com.apple.netsrc
+kctl       0      0     33      7 com.apple.netsrc
+kctl       0      0     34      7 com.apple.netsrc
+kctl       0      0     35      7 com.apple.netsrc
+kctl       0      0     36      7 com.apple.netsrc
+kctl       0      0     37      7 com.apple.netsrc
+kctl       0      0     38      7 com.apple.netsrc
+kctl       0      0     39      7 com.apple.netsrc
+kctl       0      0     40      7 com.apple.netsrc
+kctl       0      0     41      7 com.apple.netsrc
+kctl       0      0     42      7 com.apple.netsrc
+kctl       0      0     43      7 com.apple.netsrc
+kctl       0      0     44      7 com.apple.netsrc
+kctl       0      0     45      7 com.apple.netsrc
+kctl       0      0     46      7 com.apple.netsrc
+kctl       0      0     47      7 com.apple.netsrc
+kctl       0      0     48      7 com.apple.netsrc
+kctl       0      0     49      7 com.apple.netsrc
+kctl       0      0     50      7 com.apple.netsrc
+kctl       0      0     51      7 com.apple.netsrc
+kctl       0      0     52      7 com.apple.netsrc
+kctl       0      0     53      7 com.apple.netsrc
+kctl       0      0     54      7 com.apple.netsrc
+kctl       0      0     55      7 com.apple.netsrc
+kctl       0      0     56      7 com.apple.netsrc
+kctl       0      0     57      7 com.apple.netsrc
+kctl       0      0     58      7 com.apple.netsrc
+kctl       0      0     59      7 com.apple.netsrc
+kctl       0      0     60      7 com.apple.netsrc
+kctl       0      0     61      7 com.apple.netsrc
+kctl       0      0     62      7 com.apple.netsrc
+kctl       0      0     63      7 com.apple.netsrc
+kctl       0      0     64      7 com.apple.netsrc
+kctl       0      0     65      7 com.apple.netsrc
+kctl       0      0     66      7 com.apple.netsrc
+kctl       0      0     67      7 com.apple.netsrc
+kctl       0      0     68      7 com.apple.netsrc
+kctl       0      0     69      7 com.apple.netsrc
+kctl       0      0     70      7 com.apple.netsrc
+kctl       0      0     71      7 com.apple.netsrc
+kctl       0      0     72      7 com.apple.netsrc
+kctl       0      0     73      7 com.apple.netsrc
+kctl       0      0     74      7 com.apple.netsrc
+kctl       0      0     75      7 com.apple.netsrc
+kctl       0      0     76      7 com.apple.netsrc
+kctl       0      0     77      7 com.apple.netsrc
+kctl       0      0     78      7 com.apple.netsrc
+kctl       0      0     79      7 com.apple.netsrc
+kctl       0      0      1      8 com.apple.network.statistics
+kctl       0      0      2      8 com.apple.network.statistics
+kctl       0      0      3      8 com.apple.network.statistics

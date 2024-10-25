@@ -1,0 +1,20 @@
+1,Feedmix,Actuary,2001,Support
+2,Trunyx,Web Designer III,2009,Sales
+3,Linklinks,Environmental Tech,1997,Marketing
+4,Leenti,Paralegal,2004,Product Management
+5,Layo,Senior Cost Accountant,1996,Accounting
+6,Vinte,Research Associate,2008,Services
+7,Avamba,Analyst Programmer,2011,Product Management
+8,Katz,Occupational Therapist,2003,Research and Development
+9,Gigazoom,Recruiting Manager,2013,Services
+10,Youspan,Senior Developer,2007,Human Resources
+11,Photobug,Database Administrator IV,1995,Accounting
+12,Mynte,Computer Systems Analyst III,2011,Training
+13,Jabberbean,Health Coach I,2012,Sales
+14,Roombo,Staff Accountant II,2003,Support
+15,Jaxworks,Civil Engineer,2002,Marketing
+16,Browsezoom,Librarian,1992,Training
+17,Skidoo,Payment Adjustment Coordinator,1974,Accounting
+18,Kazu,Structural Analysis Engineer,2012,R&D
+19,InnoZ,Cost Accountant,2007,Legal
+20,Gabtype,Marketing Assistant,1995,Marketing
